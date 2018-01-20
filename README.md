@@ -6,4 +6,4 @@ It uses Java Swing and the java.awt.event Package to build the GUI and handle bu
 Start the program with "CalculatorOpen.java", which displays an opening screen for the calculator. 
 You can then click through that to open the main calculator application.
 
-NOTE: This project was completed in March, 2016. I'm only uploading all the files to Github now. 
+# NOTE: This project was completed in March, 2016. I'm just uploading all the files to Github now. 
