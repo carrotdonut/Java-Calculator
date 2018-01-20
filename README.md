@@ -9,6 +9,7 @@ You can then click through that to open the main calculator application.
 # NOTE: This project was completed in March, 2016. I'm just uploading all the files to Github now. 
 
 Screenshots:
+
 ![alt text](https://raw.githubusercontent.com/carrotdonut/Java-Calculator/master/screenshots/openScreen.png)
 ![alt text](https://raw.githubusercontent.com/carrotdonut/Java-Calculator/master/screenshots/calculatorScreen.png)
 
